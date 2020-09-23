@@ -1,3 +1,3 @@
-# template
+# 3DS Touch Game
 
-This is a template for starting new 3DS libctru projects.
+Use the stylus to touch X and Y coordinates. Get lots of points.
